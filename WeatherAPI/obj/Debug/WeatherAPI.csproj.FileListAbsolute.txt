@@ -1,0 +1,10 @@
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\bin\WeatherAPI.dll.config
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\bin\WeatherAPI.dll
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\bin\WeatherAPI.pdb
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\obj\Debug\WeatherAPI.csprojResolveAssemblyReference.cache
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\obj\Debug\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\obj\Debug\WeatherAPI.dll
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\obj\Debug\WeatherAPI.pdb
+C:\Users\dineshp\source\repos\Assignment_2\WeatherAPI\bin\Newtonsoft.Json.dll
